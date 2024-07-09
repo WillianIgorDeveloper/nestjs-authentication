@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/deleteUser/e4547b0a-26bd-42d9-8e30-0bbcd8204b19 HTTP/1.1
+content-type: application/json

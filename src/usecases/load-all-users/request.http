@@ -1,0 +1,3 @@
+GET http://localhost:3000/loadAllUsers HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijk3NThlNTFhLWFiYWQtNDM3OS1hYjRiLTk1YWRlMjFmZmQ5ZiIsImlhdCI6MTcyMDM3MjA2MCwiZXhwIjoxNzI1NTU2MDYwfQ.OkM9XG6kwnAWkAtccOmnes1S9evJEY1di3XkTQQcE-c
